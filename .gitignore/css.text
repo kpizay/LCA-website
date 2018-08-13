@@ -1,0 +1,53 @@
+#lcabb-logo{
+            position:absolute;
+            float:left;
+            width: 20%;
+            margin-left:20px;
+            margin-bottom: 20px;
+            z-index:3;
+        }
+		
+		#schoolname{color: white; 
+            background-color:blue; 
+            text-align: center;
+            border: ridge white;
+            font-weight:bolder;
+            text-shadow: 2px 2px black;
+            margin-bottom:20px;
+		}
+		
+		#calendar-year {
+            color: white; 
+            text-align: center;
+            position: absolute;
+        }
+        
+        #roster {color: white;
+            padding:10px;
+        }
+        
+		h2 {
+            color:white; 
+            background-color:blue;
+            display: inline-block;
+        }
+		
+        .tabs{
+            background-color: blue; 
+            color: white;
+            padding-left:10px; 
+            border: ridge white;
+        }
+        
+        body{	
+                background-color:black;
+            
+            font-family: "blanch caps",sans-serif; font-size: 2em;
+            
+            overflow:scroll;
+        }
+        
+        h1:hover, h2:hover {
+            background-color:black;
+            color: white;
+        }
